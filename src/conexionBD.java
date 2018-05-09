@@ -7,9 +7,9 @@ import javax.swing.JOptionPane;
 public class conexionBD {
     
     
-    public static final String URL="jdbc:mysql://localhost:3306/asamblea";
-    public static final String USERNAME="root";
-    public static final String PASSEORD="";
+    public static final String URL="jdbc:mysql://db4free.net:3306/asamblea";
+    public static final String USERNAME="@dmin";
+    public static final String PASSEORD="admin";
 
     public Connection getConnection(){
          Connection con=null;
