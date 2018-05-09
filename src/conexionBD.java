@@ -8,8 +8,8 @@ public class conexionBD {
     
     
     public static final String URL="jdbc:mysql://db4free.net:3306/asamblea";
-    public static final String USERNAME="@dmin";
-    public static final String PASSEORD="admin";
+    public static final String USERNAME="adminasamblea";
+    public static final String PASSEORD="admin12345";
 
     public Connection getConnection(){
          Connection con=null;
