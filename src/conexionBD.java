@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 
 public class conexionBD {
     
-    // conexion a base de datos
+    // conexion a base de datos.
     public static final String URL="jdbc:mysql://db4free.net:3306/asamblea?autoReconnect=true&useSSL=false";
     public static final String USERNAME="adminasamblea";
     public static final String PASSEORD="admin12345";
